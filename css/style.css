@@ -1,0 +1,18 @@
+* {
+
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to right, #09571e, #550040);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+input[type="color"] {
+    color: blue;
+}
+
